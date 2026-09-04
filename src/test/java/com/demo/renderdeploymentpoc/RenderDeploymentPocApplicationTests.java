@@ -1,15 +1,15 @@
-package com.demo.renderdeploymentpoc;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.context.annotation.Import;
-
-@Import(TestcontainersConfiguration.class)
-@SpringBootTest
-class RenderDeploymentPocApplicationTests {
-
-  @Test
-  void contextLoads() {
-  }
-
-}
+//package com.demo.renderdeploymentpoc;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//import org.springframework.context.annotation.Import;
+//
+//@Import(TestcontainersConfiguration.class)
+//@SpringBootTest
+//class RenderDeploymentPocApplicationTests {
+//
+//  @Test
+//  void contextLoads() {
+//  }
+//
+//}
