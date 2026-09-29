@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 public class RenderDeploymentPocApplication {
 
-  public static void main(String[] args) {
+  static void main(String[] args) {
     SpringApplication.run(RenderDeploymentPocApplication.class, args);
   }
 
